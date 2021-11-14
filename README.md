@@ -1,7 +1,7 @@
 ## Three_js dungeon
 
 ### Introduction
-This project is built to simulate HTTP servers with the use of mutithreading as well as logging capabilities. It takes in three seperate types of requests: GET, HEAD, and PUT, and preformes some action based on the request.
+This project is built to learn about WebGl and analyze various effects of vector transformation which includes: shadows, lighting, animation, camera movement, and fog. Images and models used for this project is utulized for educational purposes, by no means do I claim that I am the author of them.
 
 ### Technologies
 * Programming Language C
